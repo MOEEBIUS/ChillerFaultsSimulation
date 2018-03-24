@@ -39,12 +39,12 @@ This model is based on ThermoCycle Library (http://www.thermocycle.net/) and
 ExternalMedia Library (https://github.com/modelica/ExternalMedia) components. 
 
 
-## Licence
+## License
 
 This model is released by Technische Hochschule Nuernberg Georg Simon Ohm under the Modelica License 2.0.
 
 
-## Acknowledgements
+## Acknowledgments
 
 Parts of this work have been developed with funding from the European Union's Horizon 2020 
 research and innovation programme under grant agreement No 680517 (MOEEBIUS)
