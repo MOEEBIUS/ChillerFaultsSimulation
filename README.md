@@ -47,5 +47,7 @@ This model is released by Technische Hochschule Nuernberg Georg Simon Ohm under 
 ## Acknowledgments
 
 Parts of this work have been developed with funding from the European Union's Horizon 2020 
-research and innovation programme under grant agreement No 680517 (MOEEBIUS)
+research and innovation programme under grant agreement No 680517 (MOEEBIUS).
+
+Parts of this work has been conducted by @lzwang26 (Lingzhe Wang) during his master thesis.
 
